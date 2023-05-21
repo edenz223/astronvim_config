@@ -32,5 +32,6 @@ return {
         -- "python",
       })
     end,
+    event = "LspAttach",
   },
 }
