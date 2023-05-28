@@ -15,4 +15,7 @@ return {
       fd_binary_name = "fdfind",
     },
   },
+  {
+    "christoomey/vim-tmux-navigator"
+  }
 }
