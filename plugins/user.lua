@@ -9,12 +9,13 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-  {
-    "linux-cultist/venv-selector.nvim",
-    opts = {
-      fd_binary_name = "fdfind",
-    },
-  },
+  --  ubuntu config
+  -- {
+  --   "linux-cultist/venv-selector.nvim",
+  --   opts = {
+  --     fd_binary_name = "fdfind",
+  --   },
+  -- },
   {
     "christoomey/vim-tmux-navigator"
   }

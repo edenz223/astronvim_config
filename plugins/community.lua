@@ -10,6 +10,8 @@ return {
   { import = "astrocommunity.pack.vue" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.python" },
-  { import = "astrocommunity.colorscheme.tokyonight" },
+    { import = "astrocommunity.project.nvim-spectre" },
+  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
+  { import = "astrocommunity.debugging.nvim-bqf" },
 }
